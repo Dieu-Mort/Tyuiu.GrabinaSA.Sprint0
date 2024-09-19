@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint0.Task0.V0", "Tyuiu.GrabinaSA.Sprint0\Tyuiu.GrabinaSA.Sprint0.Task0.V0.csproj", "{55550308-07B1-437F-A899-061C0AC7E342}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GrabinaSA.Sprint0.Task0.V0", "Tyuiu.GrabinaSA.Sprint0\Tyuiu.GrabinaSA.Sprint0.Task0.V0.csproj", "{55550308-07B1-437F-A899-061C0AC7E342}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{9F6F6697-6D24-4790-B534-345AE594C036}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{2A5CC07A-E358-42C6-8816-0BF073F658FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GrabinaSA.Sprint0.Task1.V0", "Tyuiu.GrabinaSA.Sprint0.Task1.V0\Tyuiu.GrabinaSA.Sprint0.Task1.V0.csproj", "{217E9672-A4B4-4A3A-9563-67EE3400E9E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{55550308-07B1-437F-A899-061C0AC7E342}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55550308-07B1-437F-A899-061C0AC7E342}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55550308-07B1-437F-A899-061C0AC7E342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{217E9672-A4B4-4A3A-9563-67EE3400E9E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217E9672-A4B4-4A3A-9563-67EE3400E9E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217E9672-A4B4-4A3A-9563-67EE3400E9E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217E9672-A4B4-4A3A-9563-67EE3400E9E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{55550308-07B1-437F-A899-061C0AC7E342} = {9F6F6697-6D24-4790-B534-345AE594C036}
+		{217E9672-A4B4-4A3A-9563-67EE3400E9E1} = {2A5CC07A-E358-42C6-8816-0BF073F658FB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EA8F4B63-8AD9-4B56-9D9D-714436B74B33}
